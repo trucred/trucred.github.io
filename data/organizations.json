@@ -1,0 +1,32 @@
+[
+    {
+        "name": "OpenAI",
+        "id": "openai",
+        "description": "An AI research and deployment company.",
+        "url": "https://openai.com",
+        "logo": "https://openai.com/favicon.ico",
+        "industry": [
+            "Sofware Engineering"
+        ]
+    },
+    {
+        "name": "Google",
+        "id": "google",
+        "description": "A multinational technology company specializing in Internet-related services and products.",
+        "url": "https://www.google.com",
+        "logo": "https://www.google.com/favicon.ico",
+        "industry": [
+            "Sofware Engineering"
+        ]
+    },
+    {
+        "name": "Microsoft",
+        "id": "microsoft",
+        "description": "A technology company that develops, licenses, and supports a wide range of software products.",
+        "url": "https://www.microsoft.com",
+        "logo": "https://www.microsoft.com/favicon.ico",
+        "industry": [
+            "Sofware Engineering"
+        ]
+    }
+]

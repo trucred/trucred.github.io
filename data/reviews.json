@@ -1,0 +1,37 @@
+[
+    {
+        "user": "https://www.reddit.com/user/Redditor1",
+        "review": "OpenAI is a great place to work. The culture is very collaborative and the projects are cutting-edge. I love being part of a team that is pushing the boundaries of AI technology.",
+        "rating": 5,
+        "date": "2023-10-01",
+        "organization": "openai"
+    },
+    {
+        "user": "https://www.reddit.com/user/Redditor2",
+        "review": "Google has a fantastic work environment. The benefits are amazing and the projects are very interesting. However, the work-life balance can be challenging at times.",
+        "rating": 4,
+        "date": "2023-10-02",
+        "organization": "google"
+    },
+    {
+        "user": "https://www.reddit.com/user/Redditor3",
+        "review": "Microsoft is a great place to work if you enjoy a structured environment. The projects are well-defined and the teams are very supportive. However, it can feel a bit bureaucratic at times.",
+        "rating": 4,
+        "date": "2023-10-03",
+        "organization": "microsoft"
+    },
+    {
+        "user": "https://www.reddit.com/user/Redditor4",
+        "review": "OpenAI has a very innovative culture. The team is filled with talented individuals who are passionate about AI. However, the workload can be quite intense at times.",
+        "rating": 4,
+        "date": "2023-10-04",
+        "organization": "openai"
+    },
+    {
+        "user": "https://www.reddit.com/user/Redditor5",
+        "review": "Google's work-life balance is one of the best in the industry. The projects are interesting and the team is very supportive. However, the pace can be quite fast.",
+        "rating": 5,
+        "date": "2023-10-05",
+        "organization": "google"
+    }
+]

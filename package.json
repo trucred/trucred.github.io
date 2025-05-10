@@ -1,0 +1,14 @@
+{
+    "name": "trucred",
+    "version": "0.0.1",
+    "description": "Trucred Platform",
+    "scripts": {
+        "start": "webpack serve",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rm -rf dist && webpack",
+        "deploy": "npm run build && gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "Trucred Team",
+    "private": true
+}
